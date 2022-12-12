@@ -268,8 +268,8 @@ st.write(
 # RFM-Analysis
 """
 )
-img1 = Image.open("RFM1.png")
-img = Image.open("RFM.png")
+img1 = Image.open('RFM1.png')
+img = Image.open('RFM.png')
 st.image(img1)
 st.image(img)
 st.write(
