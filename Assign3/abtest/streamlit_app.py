@@ -270,7 +270,7 @@ st.write(
 )
 img1 = Image.open('RFM1.png')
 img = Image.open('RFM.png')
-st.image(img1)
+st.image(img1,output_format="auto")
 st.image(img)
 st.write(
     """
