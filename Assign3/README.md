@@ -1,3 +1,6 @@
+presentation  url:
+https://docs.google.com/presentation/d/1Uu1YflIYIUwbJp_RXkulgYHP06IIYgBtOuBpsPNHn-o/edit#slide=id.g18b429089e1_0_0
+
 # RFM-analysis
 
 RFM analysis is a simple python script (and IPython notebook) to perform RFM analysis from customer purchase history data. 
