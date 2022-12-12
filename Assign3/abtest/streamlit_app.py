@@ -268,7 +268,7 @@ st.write(
 # RFM-Analysis
 """
 )
-img = Image.open('GavinZ183/info7374ADM/blob/main/Assign3/abtest/assets/RFM.jpg')
+img = Image.open('/GavinZ183/info7374ADM/blob/main/Assign3/abtest/assets/RFM.jpg')
 img1 = Image.open('assets/RFM1.png')
 
 st.image(img1,output_format="auto")
