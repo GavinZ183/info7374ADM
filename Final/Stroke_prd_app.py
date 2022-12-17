@@ -1,10 +1,5 @@
 # %%
 import streamlit as st
-import pandas as pd
-import numpy as np
-import scipy.stats
-from scipy.stats import norm
-import altair as alt
 from PIL import Image
 st.set_page_config(
     page_title="Stroke Prediction App", page_icon="📊", initial_sidebar_state="expanded"
